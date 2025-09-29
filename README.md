@@ -16,3 +16,5 @@
 - **Voyager:** Voyager: An Open-Ended Embodied Agent with Large Language Models. [[paper](https://arxiv.org/abs/2305.16291)]
 - **PPO:** Proximal Policy Optimization Algorithms. [[paper](https://arxiv.org/abs/1707.06347)]
 - **GRPO:** Group-in-Group Policy Optimization for LLM Agent Training. [[paper](https://arxiv.org/abs/2505.10978)]
+- **DeepSeek V3:** DeepSeek-V3 Technical Report. [[paper](https://arxiv.org/abs/2412.19437)]
+- **Qwen:** Qwen Technical Report. [[paper](https://arxiv.org/abs/2309.16609)]
