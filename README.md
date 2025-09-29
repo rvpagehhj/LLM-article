@@ -14,3 +14,5 @@
 - **RLHF:** Training language models to follow instructions with human feedback. [[paper](https://arxiv.org/abs/2203.02155)]
 - **ReAct:** ReAct: Synergizing Reasoning and Acting in Language Models. [[paper](https://arxiv.org/abs/2210.03629)]
 - **Voyager:** Voyager: An Open-Ended Embodied Agent with Large Language Models. [[paper](https://arxiv.org/abs/2305.16291)]
+- **PPO:** Proximal Policy Optimization Algorithms. [[paper](https://arxiv.org/abs/1707.06347)]
+- **GRPO:** Group-in-Group Policy Optimization for LLM Agent Training. [[paper](https://arxiv.org/abs/2505.10978)]
